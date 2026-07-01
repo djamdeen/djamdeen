@@ -17,7 +17,7 @@
 
 *Junior Full Stack Developer based in Benin · Software Engineering student at IFRI · Building open-source tools with real-world impact*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio__v1-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://github.com/djamdeen/portfolio_v1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-djamdeen-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://djamdeen.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-djamdeen-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/djamdeen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-djamdeen-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djamdeen/)
 [![X](https://img.shields.io/badge/X-djamdeen-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/djamdeen)
